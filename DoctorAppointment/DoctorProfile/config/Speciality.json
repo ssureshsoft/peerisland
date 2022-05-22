@@ -1,0 +1,67 @@
+{
+  "Speciality": [
+    {
+      "SpecialityId": "1001",
+      "SpecialityName": "Orthopedics"
+    },
+    {
+      "SpecialityId": "1002",
+      "SpecialityName": "Internal Medicine"
+    },
+    {
+      "SpecialityId": "1003",
+      "SpecialityName": "Obstetrics and Gynecology"
+    },
+    {
+      "SpecialityId": "1004",
+      "SpecialityName": "Dermatology"
+    },
+    {
+      "SpecialityId": "1005",
+      "SpecialityName": "Pediatrics"
+    },
+    {
+      "SpecialityId": "1006",
+      "SpecialityName": "Radiology"
+    },
+    {
+      "SpecialityId": "1007",
+      "SpecialityName": "General Surgery"
+    },
+    {
+      "SpecialityId": "1008",
+      "SpecialityName": "Ophthalmology"
+    },{
+      "SpecialityId":"1009",
+      "SpecialityName":"Nephrology"
+    },
+    {
+      "SpecialityId":"1010",
+      "SpecialityName" : "Cardiology"
+    },
+    {
+      "SpecialityId" :"1011",
+      "SpecialityName" :"Diagnostic radiology"
+    },
+    {
+      "SpecialityId":"1012",
+      "SpecialityName" : "Neurology"
+    },
+    {
+      "SpecialityId":"1013",
+      "SpecialityName" : "Obstetrics and gynecology"
+    },
+    {
+      "SpecialityId":"1014",
+      "SpecialityName" : "Pathology"
+    },
+    {
+      "SpecialityId":"1015",
+      "SpecialityName" : "Radiation oncology"
+    },
+    {
+      "SpecialityId":"1016",
+      "SpecialityName" : "Urology"
+    }
+  ]
+}
